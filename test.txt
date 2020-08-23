@@ -1,4 +1,4 @@
-server.port=8081
+server.port=8082
 #登录超时-秒
 server.servlet.session.timeout=36000
 #数据库连接
@@ -8,7 +8,7 @@ spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver
 spring.datasource.username=root
 spring.datasource.password=root
 #前端路径
-web.front.baseDir=erp_web
+web.front.baseDir=erp_web2
 #mybatis-plus配置
 mybatis-plus.mapper-locations=classpath:./mapper_xml/*.xml
 #租户对应的角色id
@@ -23,4 +23,4 @@ demonstrate.open=false
 plugin.runMode=prod
 plugin.pluginPath=plugins
 plugin.pluginConfigFilePath=pluginConfig
-logging.level.root=on
+logging.level.root=off
