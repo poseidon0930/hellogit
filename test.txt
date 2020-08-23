@@ -8,7 +8,7 @@ spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver
 spring.datasource.username=root
 spring.datasource.password=root
 #前端路径
-web.front.baseDir=erp_web
+web.front.baseDir=erp_web2
 #mybatis-plus配置
 mybatis-plus.mapper-locations=classpath:./mapper_xml/*.xml
 #租户对应的角色id
