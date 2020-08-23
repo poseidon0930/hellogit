@@ -3,7 +3,7 @@ package hellogit;
 public class HelloGit {
 	public static void main(String[] args) {
 
-		System.out.println("Hello Git yyy 31");  
-		System.out.println("Hello Git yyy 31");
+		System.out.println("Hello Git yyy 32");  
+		System.out.println("Hello Git yyy 32");
 	}
 }
