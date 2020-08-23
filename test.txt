@@ -23,4 +23,4 @@ demonstrate.open=false
 plugin.runMode=prod
 plugin.pluginPath=plugins
 plugin.pluginConfigFilePath=pluginConfig
-logging.level.root=off
+logging.level.root=on
