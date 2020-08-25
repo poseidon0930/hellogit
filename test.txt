@@ -20,7 +20,7 @@ tenant.billsNumLimit=100000000
 #演示模式开关-默认关闭:false
 demonstrate.open=false
 #插件配置
-plugin.runMode=prod
+plugin.runMode=prod2
 plugin.pluginPath=plugins
 plugin.pluginConfigFilePath=pluginConfig
 logging.level.root=on
